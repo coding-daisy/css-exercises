@@ -1,0 +1,23 @@
+.cutePink
+{
+    background-color: #EAA9AA;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#coolBlue
+{
+    color: #0008FF;
+    font-size: 36px;
+}
+
+#uglyGreen
+{
+    background-color: #64EA80;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.large
+{
+    font-size: 24px;
+}
